@@ -1,4 +1,7 @@
-<h1 align="center">Hi there,shridhar</h1>
+<!-- origional code https://github.com/deepunyk 
+this is a copy -->
+
+<h1 align="center">Hi there,shridhar here👋</h1>
   <h3 align="center">Computer Science Student </h3>
   
   
