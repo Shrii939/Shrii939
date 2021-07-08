@@ -12,7 +12,7 @@ this is a copy -->
   
   - 🌱 I’m currently learning **Python**
   
-  - 📫 How to reach me **shridhars145@gmail.com**
+  - 📫to reach me **shridhars145@gmail.com**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
