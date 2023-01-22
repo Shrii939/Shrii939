@@ -224,7 +224,7 @@ this is a copy -->
   </a>
         <a href="https://www.gnu.org/software/bash/ target="_blank">
     <img
-      src="https://icons8.com/icon/50ZQHdJTmPqw/bash"
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F39%2F202%2Fpng-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png&f=1&nofb=1&ipt=7160c258cc8ae39e3158e49e6988e03c126a09a429cda3b5fa6b5f9e3237f9a9&ipo=images"
       alt="bash"
       width="40"
       height="40"
