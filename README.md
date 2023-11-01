@@ -3,7 +3,6 @@ this is a copy -->
 
 <h1 align="center">Hi there,shridhar here👋</h1>
 <h3 align="center">Computer Science Student</h3>
-[![An image of @shrii939's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrii939)](https://holopin.io/@shrii939)
 
 <p align="left">
   <img
