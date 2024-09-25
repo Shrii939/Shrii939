@@ -255,4 +255,4 @@ this is a copy -->
     alt="Shrii939"
   />
 </p>
-otpauth://totp/GitHub:Shrii939?secret=MTZYWPXNMCNG6H5U&issuer=GitHub
+[![An image of @shrii939's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrii939)](https://holopin.io/@shrii939)
