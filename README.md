@@ -1,257 +1,151 @@
-<!-- origional code https://github.com/deepunyk 
-this is a copy -->
+# 👋 Hey there, I'm Shridhar (Shrii939)!
 
-<h1 align="center">Hi there,shridhar here👋</h1>
-<h3 align="center">Computer Science Student</h3>
+<div align="center">
+  
+  ### Computer Science Student | Full-Stack Developer | Tech Enthusiast 🚀
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shrii939&label=Profile%20views&color=0e75b6&style=flat)
+  [![GitHub Followers](https://img.shields.io/github/followers/Shrii939?label=Followers&style=social)](https://github.com/Shrii939)
+  
+</div>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Shrii939&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Shrii939"
-  />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=Shrii939"
-      alt="Shrii939"
-  /></a>
-</p>
+---
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+## 🎯 About Me
 
-- 🌱 I’m currently learning **Python** - 📫to reach me
-**shridhars145@gmail.com**
+I'm a passionate Computer Science student diving deep into web development, backend systems, and problem-solving. I believe in writing clean code, learning continuously, and building projects that matter. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shridhar-s/" target="blank">
-    <label for=""></label><img align="center"
-    src=https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Flinkedin-transparent.html&psig=AOvVaw3junaKNZfD7YCIJBn4AemH&ust=1620497797817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi62_SWuPACFQAAAAAdAAAAABAD"
-    alt="Shrii939" height="30" width="40" /></a
-  >
-  <!-- <a href="https://instagram.com/shrihdar_939" target="blank"
-    ><img
-      align="center"
-      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F627267054330067625%2F&psig=AOvVaw0vrxPz7olNA6g3oQ6ARp9H&ust=1620497752357000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDu3NqWuPACFQAAAAAdAAAAABAD"
-      alt="shrihdar_939"
-      height="30"
-      width="40"
-  /></a> -->
-  <!-- <a href="https://www.youtube.com/c/deepak nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="deepak nayak" height="30" width="40" /></a> -->
-</p>
+- 🌱 Currently learning **Python**, **React**, and **Advanced Backend Development**
+- 💻 Full-stack developer with interests in **Web Development** and **System Design**
+- 🎓 Computer Science Student
+- 🤝 Always open to collaboration and learning from the community
+- 📫 **Reach me at:** shridhars145@gmail.com
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- <a href="https://developer.android.com" target="_blank">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://img.icons8.com/color/512/css3.png"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- <a href="https://expressjs.com" target="_blank">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <!-- <a href="https://firebase.google.com/" target="_blank">
-        <img
-        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-        alt="flutter"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <!-- <a href="https://www.framer.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    /> -->
+## 🛠️ Tech Stack & Tools
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- <a href="https://www.nginx.com" target="_blank">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-        alt="nginx"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- <a href="https://opencv.org/" target="_blank">
-        <img
-        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-        alt="opencv"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <a href="https://www.php.net" target="_blank">
-    <img
-      src="https://www.php.net/images/logos/new-php-logo.png"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <!-- <a href="https://postman.com" target="_blank">
-        <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
-      alt="react"
-      width="40"
-      height="40"
-  /></a>
-  <!-- <a href="https://www.tensorflow.org" target="_blank">
-        <img
-        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-        alt="tensorflow"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img
-        src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-        alt="xd"
-        width="40"
-        height="40"
-        />
-    </a> -->
-  <a href="https://www.java.com/en/" target="_blank">
-    <img
-      src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="javascript.com" target="_blank">
-    <img
-      src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img
-      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.docker.com/company/newsroom/media-resources/"
-    target="_blank"
-  >
-    <img
-      src="https://img.icons8.com/fluency/512/docker.png"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-        <a href="https://www.gnu.org/software/bash/ target="_blank">
-    <img
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F39%2F202%2Fpng-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png&f=1&nofb=1&ipt=7160c258cc8ae39e3158e49e6988e03c126a09a429cda3b5fa6b5f9e3237f9a9&ipo=images"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrii939&show_icons=true&locale=en&layout=compact"
-    alt="Shrii939"
-  />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Shrii939&show_icons=true&locale=en"
-    alt="Shrii939"
-  />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shrii939&"
-    alt="Shrii939"
-  />
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shrii939&theme=darkhub&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrii939&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shrii939&layout=compact&theme=radical&hide_border=true)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shrii939&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 🌟 What I'm Interested In
+
+- 🔧 **Web Development** - Building responsive, user-friendly applications
+- 📚 **Backend Architecture** - Designing scalable systems
+- 🐍 **Python Development** - Automation, data processing, and web frameworks
+- 🎨 **UI/UX** - Creating beautiful and intuitive interfaces
+- 📱 **Full-Stack Projects** - End-to-end application development
+- 🔐 **System Security** - Best practices and secure coding
+
+---
+
+## 💡 Recent Learning Journey
+
+```
+2024 Focus Areas:
+├── Advanced JavaScript & ES6+
+├── React Hooks & State Management
+├── RESTful API Design
+├── Database Optimization
+├── Docker & Containerization
+└── Cloud Deployment Basics
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shridhar-s/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shridhars145@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrii939)
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- [ ] Build a production-ready full-stack application
+- [ ] Contribute meaningfully to open-source projects
+- [ ] Master system design and advanced algorithms
+- [ ] Share knowledge through technical blogs
+- [ ] Collaborate with talented developers worldwide
+- [ ] Develop expertise in cloud technologies (AWS, GCP)
+
+---
+
+## 💬 A Few Fun Facts
+
+- ☕ Fueled by coffee and determination
+- 🎮 Gamer at heart, developer by passion
+- 🎵 Music makes coding sessions more productive
+- 📖 Believe in lifelong learning
+- 🌍 Fascinated by how code can solve real-world problems
+
+---
+
+<div align="center">
+  
+  ### ⭐ If my projects helped you, consider giving them a star!
+  
+  **Thanks for visiting my profile! Feel free to reach out if you want to collaborate or chat about tech.** 🚀
+  
+  ![Wave](https://camo.githubusercontent.com/e8e7b06afe31b41b96e57f2cc40c31b22a91eb58e5d3302628070a334ef6fb96/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66644f7e5842726f6f646c344b2f67697068792e676966)
+  
+</div>
+
+---
+
+**Last Updated:** 2024 | Always open to feedback and collaboration! 🙌
